@@ -1,2 +1,2 @@
-# PyGame_less
-Home
+# PyGame lesson
+Educational projects in the library PyGame.
